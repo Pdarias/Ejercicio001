@@ -26,7 +26,7 @@ Integrantes:
 
 Propuestas:
 
-1.1 - Juego1 Shooter Zombi
+1.1 - Juego1 Shooter Zombi  
 1.2 - Shooter zombi en una isla, primera persona,por oleadas, cada vez que se pasa de oleada vienen más zombis y el nivel aumenta
 1.3 - Sobrevivir el mayor tiempo posible
 1.4 - +18 
